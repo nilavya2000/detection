@@ -4,4 +4,4 @@
 
 ### Here's an example of face detection done by the model.. 
 
-![example](assect/example.jpg)
+![example](assect/example.png)
