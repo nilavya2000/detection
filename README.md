@@ -4,4 +4,5 @@
 
 ### Here's an example of face detection done by the model.. 
 
-![example](assect/example.png)
+
+<p><img src= "assect/example.png" width = 350px height=210px> </p>
