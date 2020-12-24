@@ -1,6 +1,21 @@
-###  We are working on a project related to COVID19. The project helps in maintaining the limit of a crowd in public sectors. It restricts the number of people density in an area. 
+# Face Detection <br>
+## About the Project: - 
+<p><i>
+  This main aim of this project is to build an application that detects human faces and counts the number of faces in the frame and can also be used to detect number of persons entering or moving out from a specfic place. 
+  </i>
+</p>
 
-### With the help of a camera, we will detect the live count of the number of people entering an area and if the limit of the number of persons allowed in an area crosses it will alert and restrict the coming of new members inside the area.  
+## Language used: - 
+[Python3](https://docs.python.org/3/)<br>
+#### Note: <br>
+Make Tab for indentation (tab = 3 spaces), and afer writing a code use the comment to describe the code ``` # add comment ```
+
+## FrameWorks: -
+1. [Open-cv](https://pypi.org/project/opencv-python/) (version: 4.2.0) <br>
+```pip install opencv-python ```
+2. [Numpy](https://numpy.org/doc/) (version: 1.18.3)<br>
+``` pip install numpy```
+
 
 ### Here's an example of face detection done by the model.. 
 
